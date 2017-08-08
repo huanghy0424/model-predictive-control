@@ -5,6 +5,6 @@ Written as part of an assignment for ROB310 - Introduction to Robotics at the Un
 
 # Equations
 
-The robot (or car) is modelled as a unicycle with sampled inputs `vk` and `wk` at time step `k` which represents predefined forward velocity and turn rate, respectively. 
+The robot (or car) is modelled as a unicycle with sampled inputs `vk` and `wk` at time step `k` which represents predefined (i.e user controlled) forward velocity and turn rate, respectively. 
 
 
